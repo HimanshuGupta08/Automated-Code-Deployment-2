@@ -1,4 +1,4 @@
-**Jenkins Deployment Pipeline for Code-Store Frontend**
+**Jenkins Deployment Pipeline for Automated Code Deployment on local Server or on Remote Server**
 
 This repository contains a Jenkins pipeline that automates the deployment process for Next.js Frontend project. It supports deployment to both a local Jenkins server for development (dev branch) and a production server for the production (production branch).
 
